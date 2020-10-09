@@ -1,4 +1,9 @@
-# Background
+# Visual Odometry / SLAM Implementations by MODULabs studies
+
+authors: 
+- [Hyunggi Chang, changh95 (study leader)](https://github.com/changh95)
+
+## Background 
 
 ![modulabs](./Images/modu_logo.png)
 
@@ -14,7 +19,7 @@ The suggested levels of implementation are as below:
 
 The participant may freely choose the hardware or the dataset to be used for development and evaluation. 
 
-# List of SLAM Implementation projects 
+## List of SLAM Implementation projects 
 
 - {SAMPLE} [Hyunggi Chang](https://github.com/changh95) - [Accurate AR marker tracker with extended visual odometry, using monocular camera](https://www.google.com)
 -
