@@ -1,7 +1,12 @@
 # Visual Odometry / SLAM Implementations by MODULabs studies
 
-authors: 
+## Authors: 
 - [Hyunggi Chang, changh95 (study leader)](https://github.com/changh95)
+-
+-
+-
+-
+
 
 ## Background 
 
