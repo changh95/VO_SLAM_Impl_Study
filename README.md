@@ -1,11 +1,11 @@
 # Visual Odometry / SLAM Implementations by MODULabs studies
 
 ## Authors: 
-- [Hyunggi Chang, changh95 (study leader)](https://github.com/changh95)
--
--
--
--
+- [Hyunggi Chang, @changh95 (study leader)](https://github.com/changh95)
+- [Sangjin Lee, @LeeSSangJin](https://github.com/LeeSSangJin)
+- [Eunsung Yang, @EunSungYang](https://github.com/EunSungYang)
+- [Sunho Kim, @Sunho-Kim](https://github.com/Sunho-Kim)
+- [Jisu Han, @lazyshuu](https://github.com/lazyshuu)
 
 
 ## Background 
@@ -27,8 +27,8 @@ The participant may freely choose the hardware or the dataset to be used for dev
 ## List of SLAM Implementation projects 
 
 - {SAMPLE} [Hyunggi Chang](https://github.com/changh95) - [Accurate AR marker tracker with extended visual odometry, using monocular camera](https://www.google.com)
--
--
+- [Sangjin Lee](https://github.com/LeeSSangJin/VO_SLAM_IMPL_STUDY) - Project name undetermined
+- [Sunho Kim](https://github.com/Sunho-Kim/SH-SLAM) - SH-SLAM
 -
 -
 -
