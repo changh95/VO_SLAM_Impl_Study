@@ -6,6 +6,7 @@
 - [Eunsung Yang, @EunSungYang](https://github.com/EunSungYang)
 - [Sunho Kim, @Sunho-Kim](https://github.com/Sunho-Kim)
 - [Jisu Han, @lazyshuu](https://github.com/lazyshuu)
+- [Hyejin Hwang, @brillianthhj](https://github.com/brillianthhj)
 
 
 ## Background 
@@ -29,6 +30,7 @@ The participant may freely choose the hardware or the dataset to be used for dev
 - {SAMPLE} [Hyunggi Chang](https://github.com/changh95) - [Accurate AR marker tracker with extended visual odometry, using monocular camera](https://www.google.com)
 - [Sangjin Lee](https://github.com/LeeSSangJin/VO_SLAM_IMPL_STUDY) - Project name undetermined
 - [Sunho Kim](https://github.com/Sunho-Kim/SH-SLAM) - SH-SLAM
+- [Hyejin Hwang](https://github.com/brillianthhj/VO_SLAM_IMPL_STUDY) - Project name undetermined
 -
 -
 -
