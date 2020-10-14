@@ -7,6 +7,7 @@
 - [Sunho Kim, @Sunho-Kim](https://github.com/Sunho-Kim)
 - [Jisu Han, @lazyshuu](https://github.com/lazyshuu)
 - [Hyejin Hwang, @brillianthhj](https://github.com/brillianthhj)
+- [Sangjun Lee, @eowjd0512](https://github.com/eowjd0512)
 
 
 ## Background 
@@ -31,7 +32,7 @@ The participant may freely choose the hardware or the dataset to be used for dev
 - [Sangjin Lee](https://github.com/LeeSSangJin/VO_SLAM_IMPL_STUDY) - Project name undetermined
 - [Sunho Kim](https://github.com/Sunho-Kim/SH-SLAM) - SH-SLAM
 - [Hyejin Hwang](https://github.com/brillianthhj/VO_SLAM_IMPL_STUDY) - Project name undetermined
--
+- [Sangjun Lee](https://github.com/eowjd0512/VITAMIN-E) - VITAMIN-E re-implementation
 -
 -
 -
