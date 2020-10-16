@@ -9,6 +9,7 @@
 - [Hyejin Hwang, @brillianthhj](https://github.com/brillianthhj)
 - [Sangjun Lee, @eowjd0512](https://github.com/eowjd0512)
 - [Minwoo Shin, @minooisbusy](https://github.com/minooisbusy)
+- [Sukmin Ha, @hasukmin12](https://github.com/hasukmin12)
 
 ## Background 
 
@@ -34,7 +35,7 @@ The participant may freely choose the hardware or the dataset to be used for dev
 - [Hyejin Hwang](https://github.com/brillianthhj) - [Project name undetermined](https://github.com/brillianthhj/VO_SLAM_IMPL_STUDY)
 - [Sangjun Lee](https://github.com/eowjd0512) - [VITAMIN-E re-implementation](https://github.com/eowjd0512/VITAMIN-E)
 - [Minwoo Shin](https://github.com/minooisbusy) - [GOSLAM](https://github.com/minooisbusy/GOSLAM)
--
+- [Sukmin Ha](https://github.com/hasukmin12) - [Has-SLAM](https://github.com/hasukmin12/has_slam)
 -
 -
 -
