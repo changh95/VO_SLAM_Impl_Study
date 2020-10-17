@@ -36,8 +36,7 @@ The participant may freely choose the hardware or the dataset to be used for dev
 - [Sangjun Lee](https://github.com/eowjd0512) - [VITAMIN-E re-implementation](https://github.com/eowjd0512/VITAMIN-E)
 - [Minwoo Shin](https://github.com/minooisbusy) - [GOSLAM](https://github.com/minooisbusy/GOSLAM)
 - [Sukmin Ha](https://github.com/hasukmin12) - [Has-SLAM](https://github.com/hasukmin12/has_slam)
--
--
+- [Joo Yong Sim](https://github.com/jooyongsim) - [Project name undetermined](https://github.com/jooyongsim/VO_SLAM_Impl_Study)-
 -
 -
 -
