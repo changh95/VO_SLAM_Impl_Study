@@ -10,6 +10,7 @@
 - [Sangjun Lee, @eowjd0512](https://github.com/eowjd0512)
 - [Minwoo Shin, @minooisbusy](https://github.com/minooisbusy)
 - [Sukmin Ha, @hasukmin12](https://github.com/hasukmin12)
+- [Joo Yong Sim, @jooyongsim](https://github.com/jooyongsim)
 
 ## Background 
 
@@ -29,14 +30,15 @@ The participant may freely choose the hardware or the dataset to be used for dev
 
 ## List of SLAM Implementation projects 
 
-- {SAMPLE} [Hyunggi Chang](https://github.com/changh95) - [Accurate AR marker tracker with extended visual odometry, using monocular camera](https://www.google.com)
+- [Hyunggi Chang](https://github.com/changh95) - [AirSim Dataset Generator](https://github.com/changh95/airsim_dataset_generator)
+- [Hyunggi Chang](https://github.com/changh95) - [BArUco: Marker based camera localization, but better than ArUco]()
 - [Sangjin Lee](https://github.com/LeeSSangJin) - [Project name undetermined](https://github.com/LeeSSangJin/VO_SLAM_IMPL_STUDY)
 - [Sunho Kim](https://github.com/Sunho-Kim) - [SH-SLAM](https://github.com/Sunho-Kim/SH-SLAM)
 - [Hyejin Hwang](https://github.com/brillianthhj) - [Project name undetermined](https://github.com/brillianthhj/VO_SLAM_IMPL_STUDY)
 - [Sangjun Lee](https://github.com/eowjd0512) - [VITAMIN-E re-implementation](https://github.com/eowjd0512/VITAMIN-E)
 - [Minwoo Shin](https://github.com/minooisbusy) - [GOSLAM](https://github.com/minooisbusy/GOSLAM)
 - [Sukmin Ha](https://github.com/hasukmin12) - [Has-SLAM](https://github.com/hasukmin12/has_slam)
-- [Joo Yong Sim](https://github.com/jooyongsim) - [Project name undetermined](https://github.com/jooyongsim/VO_SLAM_Impl_Study)-
+- [Joo Yong Sim](https://github.com/jooyongsim) - [Project name undetermined](https://github.com/jooyongsim/VO_SLAM_Impl_Study)
 -
 -
 -
