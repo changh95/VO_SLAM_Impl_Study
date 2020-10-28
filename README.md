@@ -11,6 +11,7 @@
 - [Minwoo Shin, @minooisbusy](https://github.com/minooisbusy)
 - [Sukmin Ha, @hasukmin12](https://github.com/hasukmin12)
 - [Joo Yong Sim, @jooyongsim](https://github.com/jooyongsim)
+- [Jongsik Moon, @jongsik-moon](https://github.com/jongsik-moon)
 
 ## Background 
 
@@ -39,7 +40,7 @@ The participant may freely choose the hardware or the dataset to be used for dev
 - [Minwoo Shin](https://github.com/minooisbusy) - [GOSLAM](https://github.com/minooisbusy/GOSLAM)
 - [Sukmin Ha](https://github.com/hasukmin12) - [Has-SLAM](https://github.com/hasukmin12/has_slam)
 - [Joo Yong Sim](https://github.com/jooyongsim) - [Project name undetermined](https://github.com/jooyongsim/VO_SLAM_Impl_Study)
--
+- [Jongsik Moon](https://github.com/jongsik-moon) - [DVL-SLAM re-implementation](https://github.com/jongsik-moon/DVL-SLAM_reimplementation)
 -
 -
 -
